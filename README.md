@@ -1,4 +1,10 @@
 <!-- Social -->
+<p align="center">
+  <a href="https://github.com/V1V1"><img src="https://img.shields.io/badge/V1V1-V1V1?style=flat&color=blueviolet&logo=github&logoColor=white"></a>
+  <a href="https://twitter.com/_theVIVI"><img src="https://img.shields.io/badge/__theVIVI-__theVIVI?style=flat&color=blueviolet&logo=twitter&logoColor=white"></a>
+  <a href="https://thevivi.net"><img src="https://img.shields.io/badge/thevivi.net-red?style=flat&color=blueviolet&logo=circle&logoColor=white"></a>
+
+</p>
 
 <!-- GIF -->
 <p align="center">
