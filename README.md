@@ -2,7 +2,7 @@
 
 <!-- GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3ohzdX8vwnCXcw8zuM/giphy-downsized.gif">
+  <img src="https://media.giphy.com/media/3ohzdX8vwnCXcw8zuM/giphy-downsized.gif" width=320 height=203>
 </p>
 
 <!-- Blog posts -->
