@@ -1,8 +1,8 @@
 <!-- Social -->
 <p align="center">
-  <a href="https://github.com/V1V1"><img src="https://img.shields.io/badge/V1V1-V1V1?style=flat&color=fdd017&logo=github&logoColor=fdd017&labelColor=black"></a>
   <a href="https://twitter.com/_theVIVI"><img src="https://img.shields.io/badge/__theVIVI-__theVIVI?style=flat&color=fdd017&logo=twitter&logoColor=fdd017&labelColor=black"></a>
-  <a href="https://thevivi.net"><img src="https://img.shields.io/badge/thevivi.net-red?style=flat&color=fdd017&logo=circle&logoColor=fdd017&labelColor=black"></a>
+  <a href="https://thevivi.net"><img src="https://img.shields.io/badge/thevivi.net-red?style=flat&color=fdd017&logo=gitbook&logoColor=fdd017&labelColor=black"></a>
+  <a href="https://github.com/V1V1"><img src="https://img.shields.io/badge/V1V1-V1V1?style=flat&color=fdd017&logo=github&logoColor=fdd017&labelColor=black"></a>
 
 </p>
 
