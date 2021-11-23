@@ -13,5 +13,7 @@
 
 <!-- Blog posts -->
 ### Latest blog posts
+* [Operating with AutoIt](https://thevivi.net/blog/pentesting/2021-11-22-operating-with-autoit/)
+* [Auto(It)mating your .NET tradecraft](https://thevivi.net/blog/pentesting/2021-11-24-autoitmating-your-dotnet-tradecraft/)
 * [Retrieving Data from Thunderbird and Firefox](https://thevivi.net/2020/09/06/retrieving-data-from-thunderbird-and-firefox/)
 * [A Data Hunting Overview](https://thevivi.net/2018/05/23/a-data-hunting-overview/)
